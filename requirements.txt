@@ -1,5 +1,3 @@
-io
-base64
 cv2
 PIL
 filters
