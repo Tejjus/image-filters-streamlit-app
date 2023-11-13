@@ -1,3 +1,4 @@
-cv2
-PIL
-filters
+streamlit
+numpy
+opencv-python-headless
+pillow
